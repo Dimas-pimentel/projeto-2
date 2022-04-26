@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+section{
+    display: flex;
+    height: 70vh;
+    color: blue;
+}
+.nav{
+    background-color: orange;
+    width: 20%;
+    padding: 10px;
+}
+.main{
+    width: 60%;
+    padding: 10px;
+    color:red
+}
+.link{
+    background-color: black;
+    width: 20%;
+    padding: 10px;
+
+}
+
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
